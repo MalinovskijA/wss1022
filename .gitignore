@@ -1,0 +1,6 @@
+# comments
+
+*.bak
+bin/*
+*.doc
+*.docx
